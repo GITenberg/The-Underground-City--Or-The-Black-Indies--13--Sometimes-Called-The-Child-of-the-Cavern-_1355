@@ -1,0 +1,63 @@
+_repo: The-Underground-City--Or-The-Black-Indies--13--Sometimes-Called-The-Child-of-the-Cavern-_1355
+_version: 0.0.1
+alternative_title: Les indes-noirs. English
+creator:
+  author:
+    agent_name: Verne, Jules
+    aliases:
+    - Verne, Jules Gabriël
+    - Verne, Jules Gabriel
+    - Verne, Júlio
+    birthdate: 1828
+    deathdate: 1905
+    gutenberg_agent_id: '60'
+    url: http://www.gutenberg.org/2009/agents/60
+    wikipedia:
+    - http://en.wikipedia.org/wiki/Jules_Verne
+    - http://fr.wikipedia.org/wiki/Jules_Verne
+    - http://pt.wikipedia.org/wiki/Júlio_Verne
+description: "Les Indes noires (literally The Black Indies) is a novel by the French\
+  \ writer Jules Verne, serialized in Le Temps in March and April 1877 and published\
+  \ immediately afterward by Pierre-Jules Hetzel. The first UK edition was published\
+  \ in October 1877 by Sampson Low, Marston, Searle and Rivington as The Child of\
+  \ the Cavern, or Strange Doings Underground. Other English titles for the novel\
+  \ include Black Diamonds and The Underground City.\n From Wikipedia (CC BY-SA)."
+gutenberg_issued: '1998-06-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '1355'
+  wikidata: Q143707
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Scotland -- Fiction'
+- !lcsh 'Coal mines and mining -- Fiction'
+- !lcc 'PQ'
+- !lcsh 'Fantasy fiction, French -- Translations into English'
+- !lcsh 'Adventure stories'
+- !lcsh 'Civilization, Subterranean -- Fiction'
+- !lcsh 'Imaginary places'
+- GITenberg
+title: "The Underground City; Or, The Black Indies\r\n(Sometimes Called The Child\
+  \ of the Cavern)"
+url: http://www.gutenberg.org/ebooks/1355
+wikipedia:
+- https://fr.wikipedia.org/wiki/Les_Indes_noires
+- https://ar.wikipedia.org/wiki/%D8%AC%D8%B2%D8%B1_%D8%A7%D9%84%D9%87%D9%86%D8%AF_%D8%A7%D9%84%D8%B3%D9%88%D8%AF%D8%A7%D8%A1
+- https://pt.wikipedia.org/wiki/As_%C3%8Dndias_Negras
+- https://pl.wikipedia.org/wiki/Czarne_Indie
+- https://it.wikipedia.org/wiki/Le_Indie_nere
+- https://cs.wikipedia.org/wiki/%C4%8Cern%C3%A9_indie
+- https://de.wikipedia.org/wiki/Die_Stadt_unter_der_Erde
+- https://es.wikipedia.org/wiki/Las_Indias_negras
+- https://sk.wikipedia.org/wiki/%C4%8Cierne_Indie
+- https://sr.wikipedia.org/wiki/%D0%A6%D1%80%D0%BD%D0%B0_%D0%98%D0%BD%D0%B4%D0%B8%D1%98%D0%B0
+- https://hy.wikipedia.org/wiki/%D5%8D%D6%87_%D5%80%D5%B6%D5%A4%D5%AF%D5%A1%D5%BD%D5%BF%D5%A1%D5%B6
+- https://en.wikipedia.org/wiki/The_Child_of_the_Cavern
+- https://commons.wikimedia.org/wiki/Category:The_Child_of_the_Cavern
+- https://ru.wikipedia.org/wiki/%D0%A7%D1%91%D1%80%D0%BD%D0%B0%D1%8F_%D0%98%D0%BD%D0%B4%D0%B8%D1%8F
+- https://ro.wikipedia.org/wiki/Indiile_negre
+- https://sv.wikipedia.org/wiki/I_kolgrufvan
+- https://fr.wikisource.org/wiki/Les_Indes_noires
