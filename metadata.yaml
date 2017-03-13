@@ -1,6 +1,9 @@
 _repo: The-Underground-City--Or-The-Black-Indies--13--Sometimes-Called-The-Child-of-the-Cavern-_1355
-_version: 0.1.0
+_version: 0.2.0
 alternative_title: Les indes-noirs. English
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Verne, Jules
@@ -22,6 +25,8 @@ description: "Les Indes noires (literally The Black Indies) is a novel by the Fr
   \ in October 1877 by Sampson Low, Marston, Searle and Rivington as The Child of\
   \ the Cavern, or Strange Doings Underground. Other English titles for the novel\
   \ include Black Diamonds and The Underground City.\n From Wikipedia (CC BY-SA)."
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/1355#The-Underground-City--Or-The-Black-Indies--13--Sometimes-Called-The-Child-of-the-Cavern-
 gutenberg_issued: '1998-06-01'
 gutenberg_type: Text
 identifiers:
