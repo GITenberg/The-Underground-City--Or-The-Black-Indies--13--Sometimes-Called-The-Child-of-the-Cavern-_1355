@@ -97,7 +97,7 @@ Indies to swell the surprising wealth of the United Kingdom.
 At this period, the limit of time assigned by professional men for
 the exhaustion of coal-mines was far distant and there was no dread
 of scarcity. There were still extensive mines to be worked in the two
-Americas. The manu-factories, appropriated to so many different uses,
+Americas. The manufactories, appropriated to so many different uses,
 locomotives, steamers, gas works, &c., were not likely to fail for want
 of the mineral fuel; but the consumption had so increased during the
 last few years, that certain beds had been exhausted even to their
@@ -4964,9 +4964,6 @@ that part of the pit, could be lighted by Silfax. He was not far wrong;
 but all search for proof of this was fruitless, and the continued strain
 of anxiety in this perpetual effort to detect a malignant and invisible
 being rendered the engineer--outwardly calm--an unhappy man.
-
-389
-
 
 As the wedding-day approached, his dread of some catastrophe increased,
 and he could not but speak of it to the old overman, whose uneasiness
